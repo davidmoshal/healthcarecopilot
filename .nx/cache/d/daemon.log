@@ -1,0 +1,250 @@
+[NX Daemon Server] - 2024-02-10T21:45:16.149Z - Started listening on: /var/folders/24/8f_ntb0x0ngd6g61zx5smx200000gn/T/e9d53be4ea0e8a561116/d.sock
+[NX Daemon Server] - 2024-02-10T21:45:16.154Z - [WATCHER]: Subscribed to changes within: /Users/davidmoshal/dm-mbp/codebase/hackathons/gpt-feb-10-sf/healthcarecopilot (native)
+[NX Daemon Server] - 2024-02-10T21:45:16.156Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-02-10T21:45:16.156Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-02-10T21:45:16.158Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-02-10T21:45:16.159Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-02-10T21:45:16.180Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:45:16.180Z - [REQUEST]: 
+[NX Daemon Server] - 2024-02-10T21:45:16.180Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:45:16.420Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-02-10T21:45:16.422Z - Time taken for 'total for creating and serializing project graph' 261.198125ms
+[NX Daemon Server] - 2024-02-10T21:45:16.430Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-02-10T21:45:16.430Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 261. Response time: 10.
+[NX Daemon Server] - 2024-02-10T21:45:16.431Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-02-10T21:45:24.161Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:45:47.264Z - [WATCHER]: packages/frontend/src/App.vue was modified
+[NX Daemon Server] - 2024-02-10T21:45:47.265Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-02-10T21:45:47.265Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-02-10T21:45:47.265Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-02-10T21:45:47.265Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:45:47.265Z - Time taken for 'changed-projects' 0.02479200000016135ms
+[NX Daemon Server] - 2024-02-10T21:45:47.366Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:45:47.366Z - [REQUEST]: packages/frontend/src/App.vue
+[NX Daemon Server] - 2024-02-10T21:45:47.366Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:45:47.381Z - Time taken for 'hash changed files from watcher' 0.5997079999979178ms
+[NX Daemon Server] - 2024-02-10T21:45:54.431Z - [WATCHER]: packages/frontend/src/App.vue was modified
+[NX Daemon Server] - 2024-02-10T21:45:54.432Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-02-10T21:45:54.432Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-02-10T21:45:54.432Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-02-10T21:45:54.432Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:45:54.432Z - Time taken for 'changed-projects' 0.014666999995824881ms
+[NX Daemon Server] - 2024-02-10T21:45:54.633Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:45:54.633Z - [REQUEST]: packages/frontend/src/App.vue
+[NX Daemon Server] - 2024-02-10T21:45:54.633Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:45:54.644Z - Time taken for 'hash changed files from watcher' 0.6224580000052811ms
+[NX Daemon Server] - 2024-02-10T21:46:33.304Z - [WATCHER]: packages/frontend/src/App.vue was modified
+[NX Daemon Server] - 2024-02-10T21:46:33.304Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-02-10T21:46:33.304Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-02-10T21:46:33.304Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-02-10T21:46:33.304Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:46:33.304Z - Time taken for 'changed-projects' 0.01374999999825377ms
+[NX Daemon Server] - 2024-02-10T21:46:33.706Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:46:33.706Z - [REQUEST]: packages/frontend/src/App.vue
+[NX Daemon Server] - 2024-02-10T21:46:33.706Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:46:33.723Z - Time taken for 'hash changed files from watcher' 0.8276250000053551ms
+[NX Daemon Server] - 2024-02-10T21:47:01.297Z - [WATCHER]: packages/frontend/src/App.vue was modified
+[NX Daemon Server] - 2024-02-10T21:47:01.297Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-02-10T21:47:01.297Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-02-10T21:47:01.297Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-02-10T21:47:01.297Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:47:01.297Z - Time taken for 'changed-projects' 0.01258399999642279ms
+[NX Daemon Server] - 2024-02-10T21:47:02.098Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:47:02.099Z - [REQUEST]: packages/frontend/src/App.vue
+[NX Daemon Server] - 2024-02-10T21:47:02.099Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:47:02.116Z - Time taken for 'hash changed files from watcher' 0.8135420000035083ms
+[NX Daemon Server] - 2024-02-10T21:47:05.624Z - [WATCHER]: packages/frontend/src/App.vue was modified
+[NX Daemon Server] - 2024-02-10T21:47:05.624Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-02-10T21:47:05.625Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-02-10T21:47:05.625Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-02-10T21:47:05.625Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:47:05.625Z - Time taken for 'changed-projects' 0.020042000003741123ms
+[NX Daemon Server] - 2024-02-10T21:47:07.228Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:47:07.229Z - [REQUEST]: packages/frontend/src/App.vue
+[NX Daemon Server] - 2024-02-10T21:47:07.229Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:47:07.258Z - Time taken for 'hash changed files from watcher' 1.6429170000046724ms
+[NX Daemon Server] - 2024-02-10T21:47:13.581Z - [WATCHER]: packages/frontend/src/App.vue was modified
+[NX Daemon Server] - 2024-02-10T21:47:13.581Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-02-10T21:47:13.581Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-02-10T21:47:13.581Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-02-10T21:47:13.581Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-02-10T21:47:13.581Z - Time taken for 'changed-projects' 0.015666999999666587ms
+[NX Daemon Server] - 2024-02-10T21:47:16.784Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-10T21:47:16.786Z - [REQUEST]: packages/frontend/src/App.vue
+[NX Daemon Server] - 2024-02-10T21:47:16.786Z - [REQUEST]: 
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+
+ [33m>[39m [0m[7m[1m[33m NX [39m[22m[27m[0m  [33m[36m>[39m[33m [7m[1m[36m NX [39m[33m[22m[27m Unable to parse pnpm-workspace.yaml[39m
+
+   TypeError: Cannot read properties of null (reading 'endsWith')
+
+[NX Daemon Server] - 2024-02-10T21:47:16.810Z - Time taken for 'hash changed files from watcher' 2.112374999996973ms
