@@ -1,10 +1,13 @@
 <script setup lang="ts">
 import { ref } from 'vue'
+import {query} from './api/api'
 
 const state = ref("")
 const symptoms = ref("")
 
 const output = ref("")
+
+console.log(query)
 
 function handleSubmit(e: any) {
   e.preventDefault()
