@@ -1,0 +1,170 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.4",
+  "deps": {
+    "nx": "^18.0.4"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "11761607056417690298"
+      },
+      {
+        "file": "README.md",
+        "hash": "10884450518487567111"
+      },
+      {
+        "file": "package.json",
+        "hash": "10623770964217524518"
+      },
+      {
+        "file": "packages/backend/app.js",
+        "hash": "7140470404141217634"
+      },
+      {
+        "file": "packages/backend/bin/www",
+        "hash": "7949981335063116779"
+      },
+      {
+        "file": "packages/backend/package-lock.json",
+        "hash": "12568643140410147528"
+      },
+      {
+        "file": "packages/backend/package.json",
+        "hash": "645123560607643426"
+      },
+      {
+        "file": "packages/backend/public/stylesheets/style.css",
+        "hash": "16008176012491926198"
+      },
+      {
+        "file": "packages/backend/routes/index.js",
+        "hash": "3690739613766628491"
+      },
+      {
+        "file": "packages/backend/routes/users.js",
+        "hash": "4398956935025720757"
+      },
+      {
+        "file": "packages/backend/views/error.jade",
+        "hash": "15797831673803591312"
+      },
+      {
+        "file": "packages/backend/views/index.jade",
+        "hash": "10579950992995214212"
+      },
+      {
+        "file": "packages/backend/views/layout.jade",
+        "hash": "16866781601313126645"
+      },
+      {
+        "file": "packages/frontend/.gitignore",
+        "hash": "13524112160863732742"
+      },
+      {
+        "file": "packages/frontend/.vscode/extensions.json",
+        "hash": "4987258316065159537"
+      },
+      {
+        "file": "packages/frontend/README.md",
+        "hash": "12811698818733862225"
+      },
+      {
+        "file": "packages/frontend/env.d.ts",
+        "hash": "12946363841406869089"
+      },
+      {
+        "file": "packages/frontend/index.html",
+        "hash": "17190326710390251276"
+      },
+      {
+        "file": "packages/frontend/package.json",
+        "hash": "5206302656336036720"
+      },
+      {
+        "file": "packages/frontend/public/favicon.ico",
+        "hash": "18282137866655320110"
+      },
+      {
+        "file": "packages/frontend/src/App.vue",
+        "hash": "10692627177114877884"
+      },
+      {
+        "file": "packages/frontend/src/assets/base.css",
+        "hash": "9321010002578688550"
+      },
+      {
+        "file": "packages/frontend/src/assets/logo.svg",
+        "hash": "9991375553522856255"
+      },
+      {
+        "file": "packages/frontend/src/assets/main.css",
+        "hash": "4965547358129182663"
+      },
+      {
+        "file": "packages/frontend/src/components/HelloWorld.vue",
+        "hash": "18110806020198111028"
+      },
+      {
+        "file": "packages/frontend/src/components/TheWelcome.vue",
+        "hash": "6668640087899901675"
+      },
+      {
+        "file": "packages/frontend/src/components/WelcomeItem.vue",
+        "hash": "12329010385993129720"
+      },
+      {
+        "file": "packages/frontend/src/components/icons/IconCommunity.vue",
+        "hash": "13677159598623475801"
+      },
+      {
+        "file": "packages/frontend/src/components/icons/IconDocumentation.vue",
+        "hash": "18236295658572451706"
+      },
+      {
+        "file": "packages/frontend/src/components/icons/IconEcosystem.vue",
+        "hash": "15980754303377160206"
+      },
+      {
+        "file": "packages/frontend/src/components/icons/IconSupport.vue",
+        "hash": "15808468652280814992"
+      },
+      {
+        "file": "packages/frontend/src/components/icons/IconTooling.vue",
+        "hash": "4609695526839923136"
+      },
+      {
+        "file": "packages/frontend/src/main.ts",
+        "hash": "3272063853922212782"
+      },
+      {
+        "file": "packages/frontend/tsconfig.app.json",
+        "hash": "6391331620796574655"
+      },
+      {
+        "file": "packages/frontend/tsconfig.json",
+        "hash": "12321309453353138976"
+      },
+      {
+        "file": "packages/frontend/tsconfig.node.json",
+        "hash": "172793107153560902"
+      },
+      {
+        "file": "packages/frontend/vite.config.ts",
+        "hash": "3178088312080307859"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "11473291999590204452"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "9434637932649175084"
+      }
+    ]
+  }
+}
