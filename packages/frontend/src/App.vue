@@ -1,6 +1,10 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+
+import {query} from "./api/api"
+console.log({query})
+
 </script>
 
 <template>
