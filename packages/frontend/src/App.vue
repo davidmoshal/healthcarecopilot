@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import {query} from './api/api'
+import { query } from './api/api'
 
 const state = ref("")
 const symptoms = ref("")
@@ -9,9 +9,9 @@ const output = ref("")
 
 console.log(query)
 
-function handleSubmit(e: any) {
+async function handleSubmit(e: any) {
   e.preventDefault()
-  const res = "Lorem ipsum asfkl;adsnjl;kf jasdlk;jflk;asdjl;kfjasdl;k "
+  const res = await query("asfasddfa")
 
   output.value = res
 }
