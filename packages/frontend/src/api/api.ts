@@ -1,7 +1,6 @@
 import OpenAI from "openai";
 
-const apiKey = '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';
-const openai = new OpenAI({apiKey});
+const openai = new OpenAI({apiKey: import.meta.env.VITE_OPENAI_API_KEY, dangerouslyAllowBrowser: true});
 
 export async function query(prompt: string) {
     let output = ""
