@@ -35,7 +35,7 @@ const anisia_prompt = "You are provided with a spreadsheet containing various da
 
 export async function query(prompt) {
     const stream = await openai.chat.completions.create({
-        model: "gpt-4",
+        model: "gpt-4-turbo",
         messages: [{ role: "user", content: prompt}],
         stream: true,
     });

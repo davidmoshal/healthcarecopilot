@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "axios": "^1.6.7",
+    "csv-parse": "^5.5.3",
     "openai": "^4.27.0",
+    "papaparse": "^5.4.1",
     "vue": "^3.4.15"
   },
   "devDependencies": {
