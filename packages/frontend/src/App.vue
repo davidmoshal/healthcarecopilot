@@ -7,11 +7,9 @@ const symptoms = ref("")
 
 const output = ref("")
 
-console.log(query)
-
 async function handleSubmit(e: any) {
   e.preventDefault()
-  const res = await query("asfasddfa")
+  const res = await query(`I live in ${state.value} and my symptoms are ${symptoms.value}`)
 
   output.value = res
 }
